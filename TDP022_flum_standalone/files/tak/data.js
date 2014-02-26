@@ -1,0 +1,241 @@
+﻿$axure.loadCurrentPage({
+  "url":"tak.html",
+  "generationDate":new Date(1393428581149.8),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"toolbox_cont"],
+  "page":{
+    "packageId":"f4ea2f11633a40efa8149aa2cf1c0025",
+    "type":"Axure:Page",
+    "name":"Tak",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0c74226e388543168c2b59aa0cc42ccd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":50},
+            "size":{
+              "width":70,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5bc7484cc3ad4eb88bf0faf8c2bca420",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":50},
+                "size":{
+                  "width":70,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/vaggar/u0.png"}},
+{
+          "id":"1c249a7abfa844a493ed2b62c90e83fc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":50},
+            "size":{
+              "width":100,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c34398606bd48d3b11627bf652ed3b9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":90,
+                  "y":50},
+                "size":{
+                  "width":100,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d9f4280190c549a09045385e2b0b012f",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":130},
+            "size":{
+              "width":180,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/vaggar/u4_line.png"}},
+{
+          "id":"f5683b24b5d448db8ac777ab4839d412",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":150},
+            "size":{
+              "width":70,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c8f785b072de48288e39d7d7aaf9801c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":150},
+                "size":{
+                  "width":70,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/vaggar/u0.png"}},
+{
+          "id":"6e8087d0bdef4b11978a873708110be5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":150},
+            "size":{
+              "width":100,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6519ad8a96234e7f8f5919ed10117c01",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":90,
+                  "y":150},
+                "size":{
+                  "width":100,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"31c9e661b08a4a42a14a4621de9f25ff",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":80,
+              "y":12},
+            "size":{
+              "width":40,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"50faddb04af343c2a8e440b8edcff57e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":80,
+                  "y":12},
+                "size":{
+                  "width":40,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0c74226e388543168c2b59aa0cc42ccd":{
+      "scriptId":"u0"},
+    "5bc7484cc3ad4eb88bf0faf8c2bca420":{
+      "scriptId":"u1"},
+    "1c249a7abfa844a493ed2b62c90e83fc":{
+      "scriptId":"u2"},
+    "0c34398606bd48d3b11627bf652ed3b9":{
+      "scriptId":"u3"},
+    "d9f4280190c549a09045385e2b0b012f":{
+      "scriptId":"u4"},
+    "f5683b24b5d448db8ac777ab4839d412":{
+      "scriptId":"u5"},
+    "c8f785b072de48288e39d7d7aaf9801c":{
+      "scriptId":"u6"},
+    "6e8087d0bdef4b11978a873708110be5":{
+      "scriptId":"u7"},
+    "6519ad8a96234e7f8f5919ed10117c01":{
+      "scriptId":"u8"},
+    "31c9e661b08a4a42a14a4621de9f25ff":{
+      "scriptId":"u9"},
+    "50faddb04af343c2a8e440b8edcff57e":{
+      "scriptId":"u10"}}});

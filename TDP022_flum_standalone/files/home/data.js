@@ -1,0 +1,4103 @@
+﻿$axure.loadCurrentPage({
+  "url":"home.html",
+  "generationDate":new Date(1393428580130.8),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"toolbox_cont"],
+  "page":{
+    "packageId":"590d895e58664cf4aea42c3b615bed61",
+    "type":"Axure:Page",
+    "name":"Home",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"737b2dbf0ad447cd87565b4bb768b4d9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1400,
+              "height":800}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"50b4e5a231794476a1e75ef626e0d71d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1400,
+                  "height":800}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u0.png"}},
+{
+          "id":"13910d9b3eb94e5d86312e329827d101",
+          "label":"Workspace",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1350,
+              "height":800}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"29fd4029967142319a5e0be4e2a12625",
+              "label":"Planl",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"02a4cee859904bfca2235f387d178edf",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"buttonShape",
+                  "styleType":"h1",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":320,
+                      "y":350},
+                    "size":{
+                      "width":782,
+                      "height":37}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"09d04172c8b34d05820878193550c58b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":320,
+                          "y":350},
+                        "size":{
+                          "width":782,
+                          "height":37}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"3f8d2090f11c42648aba31f002dbd81a",
+              "label":"Design",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"e74ffd8f45634e8d85a102a7170a382f",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"buttonShape",
+                  "styleType":"h1",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":320,
+                      "y":350},
+                    "size":{
+                      "width":779,
+                      "height":74}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b83bb320a578438eb5740fcabe65e376",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":320,
+                          "y":350},
+                        "size":{
+                          "width":779,
+                          "height":74}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"2f57d3a743c94898b5e685830834ee5c",
+              "label":"Inköp",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"f7029e4452584542afec66c58f6f2f73",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"buttonShape",
+                  "styleType":"h1",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":200,
+                      "y":100},
+                    "size":{
+                      "width":169,
+                      "height":37}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5a366526e0d346e0aa6a03149a7498b5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":200,
+                          "y":100},
+                        "size":{
+                          "width":169,
+                          "height":37}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"34d323953a37460d87678c489a0e3a56",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"buttonShape",
+                  "styleType":"h2",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":200,
+                      "y":147},
+                    "size":{
+                      "width":84,
+                      "height":28}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"6ab6e8238bce409b97180ceabf975acc",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":200,
+                          "y":147},
+                        "size":{
+                          "width":84,
+                          "height":28}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"094fa6a70b8047abba9c5088358c6336",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"listBox",
+                  "styleType":"listBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":200,
+                      "y":185},
+                    "size":{
+                      "width":220,
+                      "height":100}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"a5b76f03fb0643948004b11aaf565866",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"buttonShape",
+                  "styleType":"h2",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":510,
+                      "y":147},
+                    "size":{
+                      "width":107,
+                      "height":28}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e6f12bef8f774478a3803a056753fa4e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":510,
+                          "y":147},
+                        "size":{
+                          "width":107,
+                          "height":28}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"0a66ca683c6948f89e4df7df1434cc45",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"listBox",
+                  "styleType":"listBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":510,
+                      "y":185},
+                    "size":{
+                      "width":220,
+                      "height":100}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"c60c8ce70c1f481893e5ec6ed059f6e8",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":150,
+                      "y":350},
+                    "size":{
+                      "width":940,
+                      "height":10}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/home/u15_line.png"}},
+{
+                  "id":"b1995823af3c4a3f980c699fc8962c3b",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"buttonShape",
+                  "styleType":"h2",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":800,
+                      "y":370},
+                    "size":{
+                      "width":173,
+                      "height":28}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"eb6501bfe5a3492db585447d8b40fb19",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":800,
+                          "y":370},
+                        "size":{
+                          "width":173,
+                          "height":28}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"c0e0b0ffd8ed4341a4cba91a2abdf5dd",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"button",
+                  "styleType":"button",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":300,
+                      "y":295},
+                    "size":{
+                      "width":100,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"4faecac7d162491ab362d332e35ab9f6",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"button",
+                  "styleType":"button",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":983,
+                      "y":371.5},
+                    "size":{
+                      "width":100,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"7b80d654e17b488a9e10910d47f29c20",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"button",
+                  "styleType":"button",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":610,
+                      "y":295},
+                    "size":{
+                      "width":100,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"6199a558d20f4d029513807b2e195f78",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"buttonShape",
+                  "styleType":"h2",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":820,
+                      "y":147},
+                    "size":{
+                      "width":147,
+                      "height":28}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"02fcb9a050d34dee8a2b08f2d800bf91",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":820,
+                          "y":147},
+                        "size":{
+                          "width":147,
+                          "height":28}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"de62a0854fbd44219e7269df3fe70e71",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"listBox",
+                  "styleType":"listBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":820,
+                      "y":185},
+                    "size":{
+                      "width":220,
+                      "height":100}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"1c5b89127d924f7fa9d1ba7837fd6d24",
+                  "label":"",
+                  "parentDynamicPanel":"13910d9b3eb94e5d86312e329827d101",
+                  "type":"button",
+                  "styleType":"button",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":920,
+                      "y":295},
+                    "size":{
+                      "width":100,
+                      "height":25}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"c1f76c996325495f94df96e73edba18d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":1350,
+              "y":0},
+            "size":{
+              "width":50,
+              "height":800}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"322ba493708c48819b2e71331452abcb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":1350,
+                  "y":0},
+                "size":{
+                  "width":50,
+                  "height":800}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u25.png"}},
+{
+          "id":"3f2104ce8ea44bb58455f93977beb67a",
+          "label":"active border",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":109,
+              "y":9},
+            "size":{
+              "width":102,
+              "height":32},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF00CC00}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"65ef5976f19d4ab8955f5810921d492c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":109,
+                  "y":9},
+                "size":{
+                  "width":102,
+                  "height":32},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF00CC00}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/active_border_u27.png"}},
+{
+          "id":"169eaedb4dd2455d8188428d0fd92a06",
+          "label":"Left menu",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":-180,
+              "y":150},
+            "size":{
+              "width":200,
+              "height":120}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Show<br> (If state of This equals Hidden)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["169eaedb4dd2455d8188428d0fd92a06"],
+                      "panelIndex":0}},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"Move This by (180,0) swing 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["169eaedb4dd2455d8188428d0fd92a06"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"180",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "options":{
+                              "easing":"swing",
+                              "duration":500}}}]},
+{
+                      "action":"setPanelState",
+                      "description":"Set This to Shown",
+                      "panelsToStates":[{
+                          "panelPath":["169eaedb4dd2455d8188428d0fd92a06"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]}]}},
+          "tabbable":true,
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"f16a549a94564531ad3d419c1310b579",
+              "label":"Hidden",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"2f0d680723dd438ba25241fc84280b27",
+                  "label":"",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":190,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2b99bf03487d4af0a0794581e96a2c58",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":190,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u30.png"}},
+{
+                  "id":"93923f60cd054954a77317382aaf0a04",
+                  "label":"",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":30},
+                    "size":{
+                      "width":190,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a23bff0f0d7d4265814726b32e3d3bfe",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":30},
+                        "size":{
+                          "width":190,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u30.png"}},
+{
+                  "id":"8f725881088d414fbb9dc04190bca8ac",
+                  "label":"",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":60},
+                    "size":{
+                      "width":190,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"207afb28935b4b0daf960b735fb6afef",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":60},
+                        "size":{
+                          "width":190,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u30.png"}},
+{
+                  "id":"c07c0160840f44619b697266f6b5665d",
+                  "label":"",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":90},
+                    "size":{
+                      "width":190,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"21e006cde1884fb39cf99a34930e63ac",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":90},
+                        "size":{
+                          "width":190,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u30.png"}},
+{
+                  "id":"dab981b01e494d67bb384f948710055e",
+                  "label":"",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":190,
+                      "y":0},
+                    "size":{
+                      "width":10,
+                      "height":120}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"14faea5c2dbd4a06b19d758a19902e18",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":190,
+                          "y":0},
+                        "size":{
+                          "width":10,
+                          "height":120}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u38.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"8dd15b9e061f437f8485a3d7fdc4789d",
+              "label":"Shown",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"ae5fb22c319743e3a7a93117a0669b68",
+                  "label":"inköp knapp",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":190,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0987b85616e44187a55da8cf36487dd1",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":190,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Planl<br> (If is selected of This equals false)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetCheckState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":true,
+                                  "isFocused":false,
+                                  "isTarget":false}]},
+                            "rightExpr":{
+                              "exprType":"booleanLiteral",
+                              "value":false}},
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide tools fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["6a299e2973d749cf815b860c654f847e"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set is selected of This equal to &quot;true&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":true,
+                                        "isFocused":false,
+                                        "isTarget":false},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"true",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide Toolbox panel slide right 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set is selected of Planl button equal to &quot;false&quot;, and<br> is selected of Design button equal to &quot;false&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["a8c871c8511d4f6db13c6a7c59327b1e"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["fdc1e555d7a9492e95e71d246ae06f3b"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide active border",
+                              "objectsToFades":[{
+                                  "objectPath":["3f2104ce8ea44bb58455f93977beb67a"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}},
+{
+                              "action":"setPanelState",
+                              "description":"Set Workspace to Inköp",
+                              "panelsToStates":[{
+                                  "panelPath":["13910d9b3eb94e5d86312e329827d101"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":3,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide Historik fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["6c6c05c606a44cb493d3d379e4f46662"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide Historik panel slide right 500 ms,<br>hist_conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["379cd4e8bae24b05b774a7a7ef5658cc"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["37815af33a4a48ebb7a9643dfef09588"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/u30.png"}},
+{
+                  "id":"ed7cbb8834ad41ae98355e277fc3bd58",
+                  "label":"",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":30},
+                    "size":{
+                      "width":190,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5e2f9259dd2a45589bf7960a4af08e5e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":30},
+                        "size":{
+                          "width":190,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u30.png"}},
+{
+                  "id":"fd4e134ef27747599831284bf4ae2fb3",
+                  "label":"",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":60},
+                    "size":{
+                      "width":190,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"76c3ebf6961246418d7e1c5caa9d72a5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":60},
+                        "size":{
+                          "width":190,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u30.png"}},
+{
+                  "id":"613ff989bbc3442ca16f5f932bee07b7",
+                  "label":"",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":90},
+                    "size":{
+                      "width":190,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"8eaca708594649379228c448b382608d",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":90},
+                        "size":{
+                          "width":190,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u30.png"}},
+{
+                  "id":"c303faeee8f5491fa88d81bb7be1af93",
+                  "label":"Menu slide button",
+                  "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":190,
+                      "y":0},
+                    "size":{
+                      "width":10,
+                      "height":120}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c0569300975447939ac4a9067eafa9fe",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"169eaedb4dd2455d8188428d0fd92a06",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":190,
+                          "y":0},
+                        "size":{
+                          "width":10,
+                          "height":120}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Hide menu<br> (If state of Left menu equals Shown)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetPanelState",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":false,
+                                  "isFocused":false,
+                                  "isTarget":false,
+                                  "value":["169eaedb4dd2455d8188428d0fd92a06"]}]},
+                            "rightExpr":{
+                              "exprType":"panelDiagramLiteral",
+                              "panelPath":["169eaedb4dd2455d8188428d0fd92a06"],
+                              "panelIndex":1}},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"Move Left menu by (-180,0) swing 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["169eaedb4dd2455d8188428d0fd92a06"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"-180",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"swing",
+                                      "duration":500}}}]},
+{
+                              "action":"setPanelState",
+                              "description":"Set Left menu to Hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["169eaedb4dd2455d8188428d0fd92a06"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/u38.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"a8c871c8511d4f6db13c6a7c59327b1e",
+          "label":"Planl button",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":110,
+              "y":10},
+            "size":{
+              "width":100,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ff8c6909f20840b6816671218930e35c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":110,
+                  "y":10},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Planl<br> (If is selected of This equals false)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":false}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set tools to planl",
+                      "panelsToStates":[{
+                          "panelPath":["6a299e2973d749cf815b860c654f847e"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Show tools fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["6a299e2973d749cf815b860c654f847e"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set is selected of This equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":true,
+                                "isFocused":false,
+                                "isTarget":false},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide Toolbox panel slide right 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"slideRight",
+                              "duration":500,
+                              "showType":"none"}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set is selected of inköp knapp equal to &quot;false&quot;, and<br> is selected of Design button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["ae5fb22c319743e3a7a93117a0669b68"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["fdc1e555d7a9492e95e71d246ae06f3b"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"setPanelState",
+                      "description":"Set Workspace to Planl",
+                      "panelsToStates":[{
+                          "panelPath":["13910d9b3eb94e5d86312e329827d101"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide conn fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]},
+{
+                      "action":"moveWidget",
+                      "description":"Move active border to (109,9)",
+                      "objectsToMoves":[{
+                          "objectPath":["3f2104ce8ea44bb58455f93977beb67a"],
+                          "moveInfo":{
+                            "moveType":"location",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"109",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"9",
+                              "stos":[]},
+                            "options":{
+}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"toolbox_cont"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"Show active border",
+                      "objectsToFades":[{
+                          "objectPath":["3f2104ce8ea44bb58455f93977beb67a"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Show Historik fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["6c6c05c606a44cb493d3d379e4f46662"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/home/planl_button_u50.png"}},
+{
+          "id":"fdc1e555d7a9492e95e71d246ae06f3b",
+          "label":"Design button",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":220,
+              "y":10},
+            "size":{
+              "width":100,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"02817831609d4434a59a34321ee6b1ce",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":220,
+                  "y":10},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Design<br> (If is selected of This equals false)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":false}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set tools to Design",
+                      "panelsToStates":[{
+                          "panelPath":["6a299e2973d749cf815b860c654f847e"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Show tools fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["6a299e2973d749cf815b860c654f847e"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set is selected of This equal to &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":true,
+                                "isFocused":false,
+                                "isTarget":false},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide Toolbox panel slide right 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"slideRight",
+                              "duration":500,
+                              "showType":"none"}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set is selected of inköp knapp equal to &quot;false&quot;, and<br> is selected of Planl button equal to &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["ae5fb22c319743e3a7a93117a0669b68"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a8c871c8511d4f6db13c6a7c59327b1e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"setPanelState",
+                      "description":"Set Workspace to Design",
+                      "panelsToStates":[{
+                          "panelPath":["13910d9b3eb94e5d86312e329827d101"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide conn fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]},
+{
+                      "action":"moveWidget",
+                      "description":"Move active border to (219,9)",
+                      "objectsToMoves":[{
+                          "objectPath":["3f2104ce8ea44bb58455f93977beb67a"],
+                          "moveInfo":{
+                            "moveType":"location",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"219",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"9",
+                              "stos":[]},
+                            "options":{
+}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"toolbox_cont"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"Show active border",
+                      "objectsToFades":[{
+                          "objectPath":["3f2104ce8ea44bb58455f93977beb67a"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Show Historik fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["6c6c05c606a44cb493d3d379e4f46662"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/home/planl_button_u50.png"}},
+{
+          "id":"6c6c05c606a44cb493d3d379e4f46662",
+          "label":"Historik",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF333333,
+              "opacity":1},
+            "location":{
+              "x":1350,
+              "y":520},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"25ec2565f4f146c59101d96c2bc7560b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333,
+                  "opacity":1},
+                "location":{
+                  "x":1350,
+                  "y":520},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Visa historik<br> (If state of Historik panel equals Hidden)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["379cd4e8bae24b05b774a7a7ef5658cc"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["379cd4e8bae24b05b774a7a7ef5658cc"],
+                      "panelIndex":0}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Historik panel to Shown",
+                      "panelsToStates":[{
+                          "panelPath":["379cd4e8bae24b05b774a7a7ef5658cc"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Show Historik panel slide left 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["379cd4e8bae24b05b774a7a7ef5658cc"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"slideLeft",
+                              "duration":500,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Show hist_conn fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["37815af33a4a48ebb7a9643dfef09588"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]}]},
+{
+                  "description":"Dölj historik<br> (Else If state of Historik panel equals Shown)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["379cd4e8bae24b05b774a7a7ef5658cc"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["379cd4e8bae24b05b774a7a7ef5658cc"],
+                      "panelIndex":1}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Historik panel to Hidden",
+                      "panelsToStates":[{
+                          "panelPath":["379cd4e8bae24b05b774a7a7ef5658cc"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide Historik panel slide right 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["379cd4e8bae24b05b774a7a7ef5658cc"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"slideRight",
+                              "duration":500,
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Hide hist_conn fade 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["37815af33a4a48ebb7a9643dfef09588"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"fade",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/home/historik_u54.png"}},
+{
+          "id":"01a636278bcf417c9c92a048f2c527c1",
+          "label":"Toolbox panel",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":1120,
+              "y":10},
+            "size":{
+              "width":220,
+              "height":400},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"652342aa17ad4f34a22394a9cecb0674",
+              "label":"Väggar",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"9db1c66c108641d6804e591cf0789ec2",
+                  "label":"toolbox frame",
+                  "parentDynamicPanel":"01a636278bcf417c9c92a048f2c527c1",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":220,
+                      "height":400}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"f0c4276c381b4213bc6245d94b1e046d",
+              "label":"Tapet",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"b23014fc1e564299ba77111ae3621dd5",
+                  "label":"toolbox frame",
+                  "parentDynamicPanel":"01a636278bcf417c9c92a048f2c527c1",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":220,
+                      "height":400}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"a5f705d83d5b431cab78bebbda2c9411",
+              "label":"Färg",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"38c25cf39dde4bd796a9293ab84d25d4",
+                  "label":"toolbox frame",
+                  "parentDynamicPanel":"01a636278bcf417c9c92a048f2c527c1",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":220,
+                      "height":400}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"6f9d6b97b2284c678588202f9e5afae8",
+              "label":"Golv",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"1988491b264e4345b11e16123700ab24",
+                  "label":"toolbox frame",
+                  "parentDynamicPanel":"01a636278bcf417c9c92a048f2c527c1",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":220,
+                      "height":400}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"e6e71dfd3b354149a36694c6b10ff77a",
+              "label":"Tak",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"59004cfeead24c5fa0f4aeaa8344407f",
+                  "label":"toolbox frame",
+                  "parentDynamicPanel":"01a636278bcf417c9c92a048f2c527c1",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":220,
+                      "height":400}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"badccb0a71fc42ceb401800d266e2ee1",
+              "label":"Fönster",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"640a93d242604b11b1c881271e906372",
+                  "label":"toolbox frame",
+                  "parentDynamicPanel":"01a636278bcf417c9c92a048f2c527c1",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":220,
+                      "height":400}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"e4215594e06549179396c97106b811b2",
+              "label":"Dörrar",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"48702c9541174cc59539098b741ddce1",
+                  "label":"toolbox frame",
+                  "parentDynamicPanel":"01a636278bcf417c9c92a048f2c527c1",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":220,
+                      "height":400}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"091062704a4c43b4a27660a13b6ace09",
+          "label":"conn",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":1340,
+              "y":0},
+            "size":{
+              "width":10,
+              "height":50},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c7e799bd427a49cbb8fcb67f0e2be114",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "location":{
+                  "x":1340,
+                  "y":0},
+                "size":{
+                  "width":10,
+                  "height":50},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/conn_u64.png"}},
+{
+          "id":"379cd4e8bae24b05b774a7a7ef5658cc",
+          "label":"Historik panel",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":1120,
+              "y":490},
+            "size":{
+              "width":220,
+              "height":220},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"4bdc9fef62d5487885a4c066bd8cf71a",
+              "label":"Hidden",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"b82ca6a0148e48fb9a38d5d74e9ab198",
+                  "label":"",
+                  "parentDynamicPanel":"379cd4e8bae24b05b774a7a7ef5658cc",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":220,
+                      "height":220}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"b50effcb191b490a84ae59a80e72ac2f",
+              "label":"Shown",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"c34d719903e24f11818718e2d360fd35",
+                  "label":"",
+                  "parentDynamicPanel":"379cd4e8bae24b05b774a7a7ef5658cc",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":220,
+                      "height":220}},
+                  "adaptiveStyles":{
+}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"37815af33a4a48ebb7a9643dfef09588",
+          "label":"hist_conn",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":1340,
+              "y":520},
+            "size":{
+              "width":10,
+              "height":50},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e557c5bf966145d18eb6fab2abb5c3b6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "location":{
+                  "x":1340,
+                  "y":520},
+                "size":{
+                  "width":10,
+                  "height":50},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/conn_u64.png"}},
+{
+          "id":"6a299e2973d749cf815b860c654f847e",
+          "label":"tools",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1350,
+              "y":0},
+            "size":{
+              "width":50,
+              "height":160}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"4debb115a05342e786fc6c0e23c53f3f",
+              "label":"planl",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"b6898389890445e88000ef067c802f1a",
+                  "label":"Väggar",
+                  "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF333333,
+                      "opacity":1},
+                    "size":{
+                      "width":50,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"801eb35f6e7d464b8ca2a1200f64c6ac",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF333333,
+                          "opacity":1},
+                        "size":{
+                          "width":50,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Visa väggar<br> (If value of toolbox_cont does not equal &quot;väggar&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"!=",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"väggar",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"Set Toolbox panel to Väggar",
+                              "panelsToStates":[{
+                                  "panelPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show Toolbox panel slide left 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"slideLeft",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;väggar&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"väggar",
+                                        "stos":[]}]}]}},
+{
+                              "action":"moveWidget",
+                              "description":"Move conn to (1340,0)",
+                              "objectsToMoves":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1340",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]},
+{
+                          "description":"Dölj väggar<br> (Else If value of toolbox_cont equals &quot;väggar&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"väggar",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide Toolbox panel slide right 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/vaggar_u72.png"}},
+{
+                  "id":"4f17b03494f441ed90bfb23f4c067688",
+                  "label":"Tak",
+                  "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF333333,
+                      "opacity":1},
+                    "location":{
+                      "x":0,
+                      "y":40},
+                    "size":{
+                      "width":50,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"56387df7d4f34ae2b2b861545aff4427",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF333333,
+                          "opacity":1},
+                        "location":{
+                          "x":0,
+                          "y":40},
+                        "size":{
+                          "width":50,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Visa tak<br> (If value of toolbox_cont does not equal &quot;tak&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"!=",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"tak",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"Set Toolbox panel to Tak",
+                              "panelsToStates":[{
+                                  "panelPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":5,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show Toolbox panel slide left 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"slideLeft",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;tak&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"tak",
+                                        "stos":[]}]}]}},
+{
+                              "action":"moveWidget",
+                              "description":"Move conn to (1340,40)",
+                              "objectsToMoves":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1340",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"40",
+                                      "stos":[]},
+                                    "options":{
+}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]},
+{
+                          "description":"Dölj tak<br> (Else If value of toolbox_cont equals &quot;tak&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"tak",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide Toolbox panel slide right 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/tak_u74.png"}},
+{
+                  "id":"28fbe75cefc843fdb9ea4984f12c3473",
+                  "label":"Fönster",
+                  "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF333333,
+                      "opacity":1},
+                    "location":{
+                      "x":0,
+                      "y":80},
+                    "size":{
+                      "width":50,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b20ca50745424350a13f61f8608b838d",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF333333,
+                          "opacity":1},
+                        "location":{
+                          "x":0,
+                          "y":80},
+                        "size":{
+                          "width":50,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Visa fönster<br> (If value of toolbox_cont does not equal &quot;fönster&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"!=",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"fönster",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"Set Toolbox panel to Fönster",
+                              "panelsToStates":[{
+                                  "panelPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":6,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show Toolbox panel slide left 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"slideLeft",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;fönster&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"fönster",
+                                        "stos":[]}]}]}},
+{
+                              "action":"moveWidget",
+                              "description":"Move conn to (1340,80)",
+                              "objectsToMoves":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1340",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"80",
+                                      "stos":[]},
+                                    "options":{
+}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]},
+{
+                          "description":"Dölj fönster<br> (Else If value of toolbox_cont equals &quot;fönster&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"fönster",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide Toolbox panel slide right 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/fonster_u76.png"}},
+{
+                  "id":"f26e6c57b0444502afcbffa16f7fe920",
+                  "label":"Dörrar",
+                  "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF333333,
+                      "opacity":1},
+                    "location":{
+                      "x":0,
+                      "y":120},
+                    "size":{
+                      "width":50,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"dcf60e45bb804da9b38603870838cfb4",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF333333,
+                          "opacity":1},
+                        "location":{
+                          "x":0,
+                          "y":120},
+                        "size":{
+                          "width":50,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Visa dörrar<br> (If value of toolbox_cont does not equal &quot;dörrar&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"!=",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"dörrar",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"Set Toolbox panel to Dörrar",
+                              "panelsToStates":[{
+                                  "panelPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":7,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show Toolbox panel slide left 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"slideLeft",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;dörrar&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"dörrar",
+                                        "stos":[]}]}]}},
+{
+                              "action":"moveWidget",
+                              "description":"Move conn to (1340,120)",
+                              "objectsToMoves":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1340",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"120",
+                                      "stos":[]},
+                                    "options":{
+}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]},
+{
+                          "description":"Dölj dörrar<br> (Else If value of toolbox_cont equals &quot;dörrar&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"dörrar",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide Toolbox panel slide right 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/dorrar_u78.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"24a14308a67e47bd973e05857692b3a2",
+              "label":"Design",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"5201b8395fe74b35816a2eb17a7471a2",
+                  "label":"Tapet",
+                  "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":50,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"641e44dd6e1e41b59f9d045de4cedb32",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":50,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Visa tapet<br> (If value of toolbox_cont does not equal &quot;tapet&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"!=",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"tapet",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"Set Toolbox panel to Tapet",
+                              "panelsToStates":[{
+                                  "panelPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show Toolbox panel slide left 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"slideLeft",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;tapet&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"tapet",
+                                        "stos":[]}]}]}},
+{
+                              "action":"moveWidget",
+                              "description":"Move conn to (1340,0)",
+                              "objectsToMoves":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1340",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]},
+{
+                          "description":"Dölj tapet<br> (Else If value of toolbox_cont equals &quot;tapet&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"tapet",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide Toolbox panel slide right 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/tapet_u80.png"}},
+{
+                  "id":"bc3ea8b38b924445a5cf0ec88dfab3df",
+                  "label":"Färg",
+                  "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":40},
+                    "size":{
+                      "width":50,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e8c3945b26bb47df8e1998f7f37b0290",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":40},
+                        "size":{
+                          "width":50,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Visa färg<br> (If value of toolbox_cont does not equal &quot;färg&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"!=",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"färg",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"Set Toolbox panel to Färg",
+                              "panelsToStates":[{
+                                  "panelPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":3,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show Toolbox panel slide left 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"slideLeft",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;färg&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"färg",
+                                        "stos":[]}]}]}},
+{
+                              "action":"moveWidget",
+                              "description":"Move conn to (1340,40)",
+                              "objectsToMoves":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1340",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"40",
+                                      "stos":[]},
+                                    "options":{
+}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]},
+{
+                          "description":"Dölj färg<br> (Else If value of toolbox_cont equals &quot;färg&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"färg",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide Toolbox panel slide right 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/farg_u82.png"}},
+{
+                  "id":"ab9b2ad24268406e9c30f88b9ced1cad",
+                  "label":"Golv",
+                  "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":80},
+                    "size":{
+                      "width":50,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c7c5d9006fae471f8b637b689be0952f",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":80},
+                        "size":{
+                          "width":50,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Visa golv<br> (If value of toolbox_cont does not equal &quot;golv&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"!=",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"golv",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"Set Toolbox panel to Golv",
+                              "panelsToStates":[{
+                                  "panelPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":4,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show Toolbox panel slide left 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"slideLeft",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;golv&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"golv",
+                                        "stos":[]}]}]}},
+{
+                              "action":"moveWidget",
+                              "description":"Move conn to (1340,80)",
+                              "objectsToMoves":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1340",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"80",
+                                      "stos":[]},
+                                    "options":{
+}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"Show conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]},
+{
+                          "description":"Dölj golv<br> (Else If value of toolbox_cont equals &quot;golv&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetGlobalVariableValue",
+                              "arguments":[{
+                                  "exprType":"globalVariableLiteral",
+                                  "variableName":"toolbox_cont"}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"golv",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide Toolbox panel slide right 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["01a636278bcf417c9c92a048f2c527c1"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setFunction",
+                              "description":"Set value of toolbox_cont equal to &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"toolbox_cont"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"Hide conn fade 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["091062704a4c43b4a27660a13b6ace09"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/golv_u84.png"}},
+{
+                  "id":"94ac50702fe746f49d58427f40d30cdc",
+                  "label":"Infoga",
+                  "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":120.000007629395},
+                    "size":{
+                      "width":50,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d5231e5136fc44c5a5dcb6f5197643a2",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6a299e2973d749cf815b860c654f847e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":120.000007629395},
+                        "size":{
+                          "width":50,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Visa infoga",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Show Infoga fade 200 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["6242540769454c8c916c9bc19d18a5b6"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":200,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/infoga_u86.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"6242540769454c8c916c9bc19d18a5b6",
+          "label":"Infoga",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":555.5,
+              "y":150},
+            "size":{
+              "width":240,
+              "height":350},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"672435cde06e418cac9b915573da451b",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"3c5120f055a540c68a01f857f8a0ce6c",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":240,
+                      "height":350}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"8c932ae0ee104ca0b256f9a9ec31af1e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":240,
+                          "height":350}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u89.png"}},
+{
+                  "id":"94701848e2804ea3817c2a40bf8aa48d",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"buttonShape",
+                  "styleType":"h2",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":14,
+                      "y":20},
+                    "size":{
+                      "width":81,
+                      "height":28}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"09fa325c63f74557be4a9058daf1233a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":14,
+                          "y":20},
+                        "size":{
+                          "width":81,
+                          "height":28}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"0bea2535f61640e498ef7d1a3863723b",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"comboBox",
+                  "styleType":"comboBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":131,
+                      "y":26},
+                    "size":{
+                      "width":89,
+                      "height":22}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"ca06db48f1c54a1b8e517bbde874edab",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"button",
+                  "styleType":"button",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":85,
+                      "y":79.5},
+                    "size":{
+                      "width":85,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"e9422c9b8141446ba69c87e69d82b62b",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":20,
+                      "y":84},
+                    "size":{
+                      "width":55,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d9ce96f7719b4c8f97fc0ed0d6ef9ed1",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":20,
+                          "y":84},
+                        "size":{
+                          "width":55,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"ca9d3d1108c24051a44315a9dd22dab7",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":20,
+                      "y":130},
+                    "size":{
+                      "width":28,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"bd9039d784664b5aaa79ad79ca39b1d1",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":20,
+                          "y":130},
+                        "size":{
+                          "width":28,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"c2c5d7fea6f741fdb70bf874d3ee7e2f",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":58,
+                      "y":125.5},
+                    "size":{
+                      "width":50,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"75a0861d7f394123b21b5c5eaf4ff0b4",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":118,
+                      "y":130},
+                    "size":{
+                      "width":31,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d3b56f064f6e4e18856004b71ed3b574",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":118,
+                          "y":130},
+                        "size":{
+                          "width":31,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"7e20eae84ab34b1381a0d5151ef6dadd",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":20,
+                      "y":170},
+                    "size":{
+                      "width":25,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"af8731b506cd4b3ab3c6f86d1cb843e5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":20,
+                          "y":170},
+                        "size":{
+                          "width":25,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"bd3a476adf6449399fc4502bc981fe5f",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"textArea",
+                  "styleType":"textArea",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":20,
+                      "y":196},
+                    "size":{
+                      "width":200,
+                      "height":100}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"fd340a602f564acaaba28ecc6cfac854",
+                  "label":"",
+                  "parentDynamicPanel":"6242540769454c8c916c9bc19d18a5b6",
+                  "type":"button",
+                  "styleType":"button",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":120,
+                      "y":306},
+                    "size":{
+                      "width":100,
+                      "height":25}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Infoga",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"Hide Infoga fade 200 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["6242540769454c8c916c9bc19d18a5b6"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":200,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "737b2dbf0ad447cd87565b4bb768b4d9":{
+      "scriptId":"u0"},
+    "50b4e5a231794476a1e75ef626e0d71d":{
+      "scriptId":"u1"},
+    "13910d9b3eb94e5d86312e329827d101":{
+      "scriptId":"u2"},
+    "02a4cee859904bfca2235f387d178edf":{
+      "scriptId":"u3"},
+    "09d04172c8b34d05820878193550c58b":{
+      "scriptId":"u4"},
+    "e74ffd8f45634e8d85a102a7170a382f":{
+      "scriptId":"u5"},
+    "b83bb320a578438eb5740fcabe65e376":{
+      "scriptId":"u6"},
+    "f7029e4452584542afec66c58f6f2f73":{
+      "scriptId":"u7"},
+    "5a366526e0d346e0aa6a03149a7498b5":{
+      "scriptId":"u8"},
+    "34d323953a37460d87678c489a0e3a56":{
+      "scriptId":"u9"},
+    "6ab6e8238bce409b97180ceabf975acc":{
+      "scriptId":"u10"},
+    "094fa6a70b8047abba9c5088358c6336":{
+      "scriptId":"u11"},
+    "a5b76f03fb0643948004b11aaf565866":{
+      "scriptId":"u12"},
+    "e6f12bef8f774478a3803a056753fa4e":{
+      "scriptId":"u13"},
+    "0a66ca683c6948f89e4df7df1434cc45":{
+      "scriptId":"u14"},
+    "c60c8ce70c1f481893e5ec6ed059f6e8":{
+      "scriptId":"u15"},
+    "b1995823af3c4a3f980c699fc8962c3b":{
+      "scriptId":"u16"},
+    "eb6501bfe5a3492db585447d8b40fb19":{
+      "scriptId":"u17"},
+    "c0e0b0ffd8ed4341a4cba91a2abdf5dd":{
+      "scriptId":"u18"},
+    "4faecac7d162491ab362d332e35ab9f6":{
+      "scriptId":"u19"},
+    "7b80d654e17b488a9e10910d47f29c20":{
+      "scriptId":"u20"},
+    "6199a558d20f4d029513807b2e195f78":{
+      "scriptId":"u21"},
+    "02fcb9a050d34dee8a2b08f2d800bf91":{
+      "scriptId":"u22"},
+    "de62a0854fbd44219e7269df3fe70e71":{
+      "scriptId":"u23"},
+    "1c5b89127d924f7fa9d1ba7837fd6d24":{
+      "scriptId":"u24"},
+    "c1f76c996325495f94df96e73edba18d":{
+      "scriptId":"u25"},
+    "322ba493708c48819b2e71331452abcb":{
+      "scriptId":"u26"},
+    "3f2104ce8ea44bb58455f93977beb67a":{
+      "scriptId":"u27"},
+    "65ef5976f19d4ab8955f5810921d492c":{
+      "scriptId":"u28"},
+    "169eaedb4dd2455d8188428d0fd92a06":{
+      "scriptId":"u29"},
+    "2f0d680723dd438ba25241fc84280b27":{
+      "scriptId":"u30"},
+    "2b99bf03487d4af0a0794581e96a2c58":{
+      "scriptId":"u31"},
+    "93923f60cd054954a77317382aaf0a04":{
+      "scriptId":"u32"},
+    "a23bff0f0d7d4265814726b32e3d3bfe":{
+      "scriptId":"u33"},
+    "8f725881088d414fbb9dc04190bca8ac":{
+      "scriptId":"u34"},
+    "207afb28935b4b0daf960b735fb6afef":{
+      "scriptId":"u35"},
+    "c07c0160840f44619b697266f6b5665d":{
+      "scriptId":"u36"},
+    "21e006cde1884fb39cf99a34930e63ac":{
+      "scriptId":"u37"},
+    "dab981b01e494d67bb384f948710055e":{
+      "scriptId":"u38"},
+    "14faea5c2dbd4a06b19d758a19902e18":{
+      "scriptId":"u39"},
+    "ae5fb22c319743e3a7a93117a0669b68":{
+      "scriptId":"u40"},
+    "0987b85616e44187a55da8cf36487dd1":{
+      "scriptId":"u41"},
+    "ed7cbb8834ad41ae98355e277fc3bd58":{
+      "scriptId":"u42"},
+    "5e2f9259dd2a45589bf7960a4af08e5e":{
+      "scriptId":"u43"},
+    "fd4e134ef27747599831284bf4ae2fb3":{
+      "scriptId":"u44"},
+    "76c3ebf6961246418d7e1c5caa9d72a5":{
+      "scriptId":"u45"},
+    "613ff989bbc3442ca16f5f932bee07b7":{
+      "scriptId":"u46"},
+    "8eaca708594649379228c448b382608d":{
+      "scriptId":"u47"},
+    "c303faeee8f5491fa88d81bb7be1af93":{
+      "scriptId":"u48"},
+    "c0569300975447939ac4a9067eafa9fe":{
+      "scriptId":"u49"},
+    "a8c871c8511d4f6db13c6a7c59327b1e":{
+      "scriptId":"u50"},
+    "ff8c6909f20840b6816671218930e35c":{
+      "scriptId":"u51"},
+    "fdc1e555d7a9492e95e71d246ae06f3b":{
+      "scriptId":"u52"},
+    "02817831609d4434a59a34321ee6b1ce":{
+      "scriptId":"u53"},
+    "6c6c05c606a44cb493d3d379e4f46662":{
+      "scriptId":"u54"},
+    "25ec2565f4f146c59101d96c2bc7560b":{
+      "scriptId":"u55"},
+    "01a636278bcf417c9c92a048f2c527c1":{
+      "scriptId":"u56"},
+    "9db1c66c108641d6804e591cf0789ec2":{
+      "scriptId":"u57"},
+    "b23014fc1e564299ba77111ae3621dd5":{
+      "scriptId":"u58"},
+    "38c25cf39dde4bd796a9293ab84d25d4":{
+      "scriptId":"u59"},
+    "1988491b264e4345b11e16123700ab24":{
+      "scriptId":"u60"},
+    "59004cfeead24c5fa0f4aeaa8344407f":{
+      "scriptId":"u61"},
+    "640a93d242604b11b1c881271e906372":{
+      "scriptId":"u62"},
+    "48702c9541174cc59539098b741ddce1":{
+      "scriptId":"u63"},
+    "091062704a4c43b4a27660a13b6ace09":{
+      "scriptId":"u64"},
+    "c7e799bd427a49cbb8fcb67f0e2be114":{
+      "scriptId":"u65"},
+    "379cd4e8bae24b05b774a7a7ef5658cc":{
+      "scriptId":"u66"},
+    "b82ca6a0148e48fb9a38d5d74e9ab198":{
+      "scriptId":"u67"},
+    "c34d719903e24f11818718e2d360fd35":{
+      "scriptId":"u68"},
+    "37815af33a4a48ebb7a9643dfef09588":{
+      "scriptId":"u69"},
+    "e557c5bf966145d18eb6fab2abb5c3b6":{
+      "scriptId":"u70"},
+    "6a299e2973d749cf815b860c654f847e":{
+      "scriptId":"u71"},
+    "b6898389890445e88000ef067c802f1a":{
+      "scriptId":"u72"},
+    "801eb35f6e7d464b8ca2a1200f64c6ac":{
+      "scriptId":"u73"},
+    "4f17b03494f441ed90bfb23f4c067688":{
+      "scriptId":"u74"},
+    "56387df7d4f34ae2b2b861545aff4427":{
+      "scriptId":"u75"},
+    "28fbe75cefc843fdb9ea4984f12c3473":{
+      "scriptId":"u76"},
+    "b20ca50745424350a13f61f8608b838d":{
+      "scriptId":"u77"},
+    "f26e6c57b0444502afcbffa16f7fe920":{
+      "scriptId":"u78"},
+    "dcf60e45bb804da9b38603870838cfb4":{
+      "scriptId":"u79"},
+    "5201b8395fe74b35816a2eb17a7471a2":{
+      "scriptId":"u80"},
+    "641e44dd6e1e41b59f9d045de4cedb32":{
+      "scriptId":"u81"},
+    "bc3ea8b38b924445a5cf0ec88dfab3df":{
+      "scriptId":"u82"},
+    "e8c3945b26bb47df8e1998f7f37b0290":{
+      "scriptId":"u83"},
+    "ab9b2ad24268406e9c30f88b9ced1cad":{
+      "scriptId":"u84"},
+    "c7c5d9006fae471f8b637b689be0952f":{
+      "scriptId":"u85"},
+    "94ac50702fe746f49d58427f40d30cdc":{
+      "scriptId":"u86"},
+    "d5231e5136fc44c5a5dcb6f5197643a2":{
+      "scriptId":"u87"},
+    "6242540769454c8c916c9bc19d18a5b6":{
+      "scriptId":"u88"},
+    "3c5120f055a540c68a01f857f8a0ce6c":{
+      "scriptId":"u89"},
+    "8c932ae0ee104ca0b256f9a9ec31af1e":{
+      "scriptId":"u90"},
+    "94701848e2804ea3817c2a40bf8aa48d":{
+      "scriptId":"u91"},
+    "09fa325c63f74557be4a9058daf1233a":{
+      "scriptId":"u92"},
+    "0bea2535f61640e498ef7d1a3863723b":{
+      "scriptId":"u93"},
+    "ca06db48f1c54a1b8e517bbde874edab":{
+      "scriptId":"u94"},
+    "e9422c9b8141446ba69c87e69d82b62b":{
+      "scriptId":"u95"},
+    "d9ce96f7719b4c8f97fc0ed0d6ef9ed1":{
+      "scriptId":"u96"},
+    "ca9d3d1108c24051a44315a9dd22dab7":{
+      "scriptId":"u97"},
+    "bd9039d784664b5aaa79ad79ca39b1d1":{
+      "scriptId":"u98"},
+    "c2c5d7fea6f741fdb70bf874d3ee7e2f":{
+      "scriptId":"u99"},
+    "75a0861d7f394123b21b5c5eaf4ff0b4":{
+      "scriptId":"u100"},
+    "d3b56f064f6e4e18856004b71ed3b574":{
+      "scriptId":"u101"},
+    "7e20eae84ab34b1381a0d5151ef6dadd":{
+      "scriptId":"u102"},
+    "af8731b506cd4b3ab3c6f86d1cb843e5":{
+      "scriptId":"u103"},
+    "bd3a476adf6449399fc4502bc981fe5f":{
+      "scriptId":"u104"},
+    "fd340a602f564acaaba28ecc6cfac854":{
+      "scriptId":"u105"}}});
